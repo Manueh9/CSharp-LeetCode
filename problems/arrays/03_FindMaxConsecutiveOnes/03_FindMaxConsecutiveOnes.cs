@@ -22,6 +22,7 @@ namespace src.problems.arrays
                 }
             }
 
+            Console.WriteLine(max);
             return max;
         }
     }
