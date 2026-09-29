@@ -35,6 +35,9 @@ namespace src
                 
                 case "3": case "03":
                 case "FindMaxConsecutiveOnes": FindMaxConsecutiveOnes.Run(); break;
+                
+                case "4": case "04":
+                case "SetMismatch": SetMismatch.Run(); break;
             }
         }
     }
