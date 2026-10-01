@@ -38,6 +38,14 @@ namespace src
                 
                 case "4": case "04":
                 case "SetMismatch": SetMismatch.Run(); break;
+                
+                case "5": case "05":
+                case "SmallerNumbersThanCurrent": SmallerNumbersThanCurrent.Run(); break;
+
+                
+                default:
+                    Console.WriteLine("Invalid option section");
+                    break;
             }
         }
     }
