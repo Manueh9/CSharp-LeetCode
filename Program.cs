@@ -42,7 +42,8 @@ namespace src
                 case "5": case "05":
                 case "SmallerNumbersThanCurrent": SmallerNumbersThanCurrent.Run(); break;
 
-                
+                case "6": case "06":
+                case "FindDisappearedNumbers": FindDisappearedNumbers.Run(); break;
                 default:
                     Console.WriteLine("Invalid option section");
                     break;

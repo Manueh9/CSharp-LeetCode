@@ -21,6 +21,7 @@ problem.
 | 03 | [Max Consecutive Ones](problems/arrays/03_FindMaxConsecutiveOnes/03_FindMaxConsecutiveOnes.md) | Easy | Array |
 | 04 | [Set Mismatch](problems/arrays/04_SetMismatch/04_SetMismatch.md) | Easy | Array |
 | 05 | [How Many Numbers Are Smaller Than the Current Number](problems/arrays/05_SmallerNumbersThanCurrent/05_SmallerNumbersThanCurrent.md) | Easy | Array |
+| 06 | [Find All Numbers Disappeared in an Array](problems/arrays/06_FindDisappearedNumbers/06_FindDisappearedNumbers.md) | Easy | Array |
 
 ## Running a solution
 
